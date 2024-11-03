@@ -1,2 +1,3 @@
 # githubb
-Hello learning git techniques(python).
+Hello learning git techniques.(hii)
+
